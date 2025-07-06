@@ -50,6 +50,6 @@ h1 {
   </style>
 </head>
 <body>
-  <h1><span class="heart">❤️</span> خۆشمدەوێی چاوەکەم <span class="heart">❤️</span></h1>
+  <h1><span class="heart">🌞</span> خۆشمدەوێی چاوەکەم <span class="heart">❤️‍🩹</span></h1>
 </body>
 </html>
